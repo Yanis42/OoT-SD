@@ -1,0 +1,31 @@
+Object: 0001
+Actor: 00F5
+
+Variables:
+0x0000 Nothing
+0x0001 Weird lightning, seems to be used only in cutscenes
+0x0002 White Particles who go in center, seems to be an npc according to GZ
+0x0003 Weird red ball
+0x0004 Weird green ball
+0x0005 Weird yellow ball
+0x0006 Weird purple ball
+0x0007 Weird orange ball
+0x0008 Weird blue ball
+0x0009 Weird red ball who rocket away
+0x000A same as 0x0009 except it's blue
+0x000B Seems to be that orange effect after Nabooru Knuckle fight cutscene
+0x000C I think it's Ganondorf's magic ball in the cutscene where we got OoT
+0x000D Might be spawned by 0x000C, particles following Link?
+0x000E ? 
+0x000F ?
+0x0010 ?
+0x0011 ?
+0x0012 ?
+0x0013 ?
+0x0014 and more seemed to crash the game, maybe due to the practice rom
+
+Notes:
+0x0001 and 0x0002: might be spawned for the cutscene just before Ganondorf's dialogue in void realm
+0x0003 to 0x0008: should be the balls before 0x0001 and 0x0002 are used
+0x000E to 0x00013: I think it's the effect after the balls disappear but before 0x0001 & 0x002 are used
+0x0009, 0x000A and 0x000B: effects during post-Nabooru knuckle fight

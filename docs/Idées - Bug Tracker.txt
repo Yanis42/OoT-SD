@@ -1,0 +1,23 @@
+Idées:
+
+- Déplacer le switch pour unlock la plaine, le transformer en oeil, le mettre au dessus de la gate.
+- Intro qui dit "the end" et un dialogue dit "oops this is the wrong timezone, it's just the beginning of your journey!"
+  et à la fin l'inverse, on a le "press start" et le logo du jeu si possible et le même perso qui dit "oops, wrong timezone again, now this is the moment of the end of your journey!"
+- L'ocarina se trouvera dans un coffre de clé de boss, qui se trouvera dans l'Arbre Mojo.
+
+- Utiliser l'actor 0x00F5 de variable 0x0002 avec :
+    - l'actor 0x009E de variable 0x0000 (Farore's Wind)
+	- l'actor 0x009F de variable 0x0000 (Din's Fire)
+
+- L'actor 0x009E de variable 0x0000 peut être utilisé dans des cutscenes de téléportation
+- Voir si on peut changer l'actor qui est spawn avec Din's Fire/Farore's Wind/Nayru's Love
+
+- Donjons hybrides, genre un donjon qui contient des salles du deku tree, des salles de dc, des salle du spirit par exemple
+
+Bugs:
+
+switchs a peine trop haut a kokiri forest
+deux coffres superposés dans la salle de l'arc du forest*
+la porte des wolfos est trop haute est pas key locked*
+pas d'animation sur le couloir qui se détord*
+la porte #25 ne charge pas la salle 17*

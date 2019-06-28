@@ -1,0 +1,26 @@
+Zelda - A Spacetime Disorder
+
+**Histoire**
+
+L'histoire se passe après OoT mais avant MM/TP. Ganondorf a utilisé sa Triforce de la Force pour se libérer du void of the Evil Realm.
+Il décide de remonter le temps à l'aide de sa Triforce, et il parvient à restaurer Hyrule telle qu'elle était avant que Link ne débute son aventure.
+Ce dernier devra sauver les Sages du Temple de la Lumière en résolvant de nombreuses énigmes que Ganondorf à créés.
+La Déesse du temps et de l'espace, folle de rage devant l'acte abominable du voleur Gerudo, décida de placer des portails invisible à l'entrée de chaque donjon enfant.
+Ces portails auront pour effet de téléporter Link vers le mauvais donjon.
+
+**Histoire - Techniquement parlant**
+
+- Deku Tree, DC & Jabu seront mélangés (loading zone)
+- ?
+
+Le jeu se fera en grande partie en adulte.
+On débutera une partie dans ToT.
+
+Softwares used:
+
+Petrie's Rom Tool
+SceneNavi
+HxD
+GZRT
+Blender
+SharpOcarina
